@@ -1,2 +1,7 @@
 venv/
 varsha/
+.ipynb_checkpoints
+__pycache__/
+Readings/
+*.pkl
+
