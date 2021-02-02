@@ -4,7 +4,7 @@ backports-abc==0.5
 backports.functools-lru-cache==1.4
 backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.7.0.1
-bleach==3.0.2
+bleach==3.3.0
 cached-property==1.5.1
 certifi==2018.11.29
 chardet==3.0.4
